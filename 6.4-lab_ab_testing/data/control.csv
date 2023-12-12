@@ -1,0 +1,16 @@
+,Unnamed: 0,Tiempo_Control(sec),Clicks,Edad,Sexo,Bool_control
+0,0,80,14,39,F,True
+1,1,120,15,41,F,False
+2,2,55,20,25,F,True
+3,3,35,8,30,M,True
+4,4,27,7,27,F,True
+5,5,99,7,68,M,False
+6,6,106,9,64,M,False
+7,7,86,21,32,F,False
+8,8,26,8,35,F,True
+9,9,70,15,34,M,True
+10,10,80,17,36,M,True
+11,11,80,20,40,M,True
+12,12,70,14,28,F,True
+13,13,105,20,53,F,False
+14,14,70,14,22,M,True
